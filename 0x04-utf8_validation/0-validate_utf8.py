@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 def validUTF8(data):
     n_bytes = 0
     mask1, mask2 = 1 << 7, 1 << 6
