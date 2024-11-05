@@ -1,0 +1,1 @@
+nqueens_puzzel
