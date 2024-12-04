@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+"""module that calculate the perimeter of the island"""
+
+
 def island_perimeter(grid):
     """
     Calculate the perimeter of the island in the given grid.
